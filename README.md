@@ -1,7 +1,7 @@
 - 👋 Hi, I’m João Pedro;
 - 👀 I’m interested in software development;
 - 🌱 I’m currently learning computer science;
-- 📫 How to reach me: send me an email at joaopedromartins.work@gmail.com;
+- 📫 How to reach me: send me an email at joaopedromartins170405@gmail.com;
 - 😄 Pronouns: He/Him;
 
 <!---
