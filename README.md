@@ -1,7 +1,4 @@
-- 👋 Hi, I’m João Pedro;
-- 👀 I’m interested in software development;
-- 🌱 I’m currently learning computer science;
-- 😄 Pronouns: He/Him;
+yeah
 
 <!---
 jpds005/jpds005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
